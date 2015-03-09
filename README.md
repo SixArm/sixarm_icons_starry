@@ -1,4 +1,4 @@
-# SixArm.com » Icons » Starry ratings with small icons like Amazon and Netflix
+# Icons » Starry ratings with small icons like Amazon and Netflix
 
   * Author: Joel Parker Henderson, joel@joelparkerhenderson.com
   * Copyright: Copyright (c) 2006-2012 Joel Parker Henderson
